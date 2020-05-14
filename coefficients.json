@@ -1,0 +1,2345 @@
+{
+	"timestamp": 1517963695103,
+	"coefficients": {
+		"capture_weight": 0,
+		"damage_weight": 0.5,
+		"ship_frags_importance_weight": 10,
+		"nominal_rating": 1000,
+		"wins_weight": 0.2,
+		"dropped_capture_weight": 0,
+		"frags_weight": 0.3
+	},
+	"expected": [
+		{
+			"capture_points": 0.014326856471598148,
+			"planes_killed": 0.3533036410808563,
+			"ship_id": 4184782640,
+			"damage_dealt": 25870.923828125,
+			"frags": 0.7177758812904358,
+			"dropped_capture_points": 0.06622553616762161,
+			"wins": 0.5069419741630554
+		},
+		{
+			"capture_points": 0.06555566191673279,
+			"planes_killed": 0.03907518833875656,
+			"ship_id": 4185831216,
+			"damage_dealt": 16102.212890625,
+			"frags": 0.5145981907844543,
+			"dropped_capture_points": 0.19756999611854553,
+			"wins": 0.48794519901275635
+		},
+		{
+			"capture_points": 0.010693688876926899,
+			"planes_killed": 0,
+			"ship_id": 4293801680,
+			"damage_dealt": 14410.05859375,
+			"frags": 0.879237949848175,
+			"dropped_capture_points": 0.019669413566589355,
+			"wins": 0.518991231918335
+		},
+		{
+			"capture_points": 0.052663061767816544,
+			"planes_killed": 1.266297698020935,
+			"ship_id": 4286527472,
+			"damage_dealt": 43297.51953125,
+			"frags": 0.7125241160392761,
+			"dropped_capture_points": 0.23849834501743317,
+			"wins": 0.4866495132446289
+		},
+		{
+			"capture_points": 0.17571833729743958,
+			"planes_killed": 1.366064429283142,
+			"ship_id": 4287542992,
+			"damage_dealt": 25982.8359375,
+			"frags": 0.6120343804359436,
+			"dropped_capture_points": 0.8235315084457397,
+			"wins": 0.4965340495109558
+		},
+		{
+			"capture_points": 0.028009139001369476,
+			"planes_killed": 1.6057469844818115,
+			"ship_id": 4282300112,
+			"damage_dealt": 46463.1640625,
+			"frags": 0.6241806745529175,
+			"dropped_capture_points": 0.1578158587217331,
+			"wins": 0.49750250577926636
+		},
+		{
+			"capture_points": 0.4729669988155365,
+			"planes_killed": 0.3344036042690277,
+			"ship_id": 4293801424,
+			"damage_dealt": 31620.08984375,
+			"frags": 1.0726412534713745,
+			"dropped_capture_points": 1.5793112516403198,
+			"wins": 0.5622842907905579
+		},
+		{
+			"capture_points": 0.014667009003460407,
+			"planes_killed": 1.6255600452423096,
+			"ship_id": 4272895696,
+			"damage_dealt": 56261.38671875,
+			"frags": 0.643405020236969,
+			"dropped_capture_points": 0.08968507498502731,
+			"wins": 0.4865522086620331
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.6483200788497925,
+			"ship_id": 4180587984,
+			"damage_dealt": 52202.27734375,
+			"frags": 0.6674418449401855,
+			"dropped_capture_points": 0,
+			"wins": 0.5176631212234497
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.7451900243759155,
+			"ship_id": 4182685136,
+			"damage_dealt": 38509.890625,
+			"frags": 0.7560876607894897,
+			"dropped_capture_points": 0,
+			"wins": 0.5071371793746948
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.8416309356689453,
+			"ship_id": 3762239472,
+			"damage_dealt": 58427.21484375,
+			"frags": 0.7942817211151123,
+			"dropped_capture_points": 0,
+			"wins": 0.5314725637435913
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8584920167922974,
+			"ship_id": 3764336624,
+			"damage_dealt": 51723.5078125,
+			"frags": 0.981462836265564,
+			"dropped_capture_points": 0,
+			"wins": 0.556912899017334
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0,
+			"ship_id": 4187894992,
+			"damage_dealt": 15200.3623046875,
+			"frags": 0.901272714138031,
+			"dropped_capture_points": 0,
+			"wins": 0.5259034037590027
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.970292329788208,
+			"ship_id": 3765351888,
+			"damage_dealt": 25871.78125,
+			"frags": 0.6850214600563049,
+			"dropped_capture_points": 0,
+			"wins": 0.5228065848350525
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.6860637068748474,
+			"ship_id": 3552491216,
+			"damage_dealt": 38208.90234375,
+			"frags": 0.578082263469696,
+			"dropped_capture_points": 0,
+			"wins": 0.5083336234092712
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.10846128314733505,
+			"ship_id": 4185830864,
+			"damage_dealt": 22679.5,
+			"frags": 0.7191510200500488,
+			"dropped_capture_points": 0,
+			"wins": 0.5192185640335083
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.5488815307617188,
+			"ship_id": 4179572688,
+			"damage_dealt": 107053.65625,
+			"frags": 0.8890509605407715,
+			"dropped_capture_points": 0,
+			"wins": 0.5161271691322327
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.495929479598999,
+			"ship_id": 3742316496,
+			"damage_dealt": 54011.2734375,
+			"frags": 0.8418097496032715,
+			"dropped_capture_points": 0,
+			"wins": 0.5130296945571899
+		},
+		{
+			"capture_points": 0.0413811095058918,
+			"planes_killed": 16.538684844970703,
+			"ship_id": 4283414224,
+			"damage_dealt": 48305.8125,
+			"frags": 0.886570155620575,
+			"dropped_capture_points": 0.6893841028213501,
+			"wins": 0.5120474100112915
+		},
+		{
+			"capture_points": 0.010040768422186375,
+			"planes_killed": 2.7526938915252686,
+			"ship_id": 4277090288,
+			"damage_dealt": 82569.0859375,
+			"frags": 0.9129395484924316,
+			"dropped_capture_points": 0.055592719465494156,
+			"wins": 0.5004788041114807
+		},
+		{
+			"capture_points": 0.11073902994394302,
+			"planes_killed": 1.5903559923171997,
+			"ship_id": 4282300400,
+			"damage_dealt": 27551.9453125,
+			"frags": 0.56336510181427,
+			"dropped_capture_points": 0.5467561483383179,
+			"wins": 0.4821624159812927
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 20.199935913085938,
+			"ship_id": 3762272240,
+			"damage_dealt": 69898.328125,
+			"frags": 1.0307122468948364,
+			"dropped_capture_points": 0,
+			"wins": 0.5663688778877258
+		},
+		{
+			"capture_points": 0.0000027674332159222104,
+			"planes_killed": 0.003748027142137289,
+			"ship_id": 4268635856,
+			"damage_dealt": 34822.984375,
+			"frags": 1.1655598878860474,
+			"dropped_capture_points": 0.000018449554772814736,
+			"wins": 0.5791721343994141
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.2521488666534424,
+			"ship_id": 3971888592,
+			"damage_dealt": 31410.767578125,
+			"frags": 0.5811108946800232,
+			"dropped_capture_points": 0,
+			"wins": 0.49965131282806396
+		},
+		{
+			"capture_points": 0.000007391754024865804,
+			"planes_killed": 2.4988224506378174,
+			"ship_id": 3762206160,
+			"damage_dealt": 48963.21484375,
+			"frags": 0.7267221212387085,
+			"dropped_capture_points": 0.000012767574844474439,
+			"wins": 0.5273337960243225
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.3100162744522095,
+			"ship_id": 3763287760,
+			"damage_dealt": 52661.5234375,
+			"frags": 0.8410411477088928,
+			"dropped_capture_points": 0,
+			"wins": 0.5256022810935974
+		},
+		{
+			"capture_points": 0.21916472911834717,
+			"planes_killed": 1.1735923290252686,
+			"ship_id": 4287575760,
+			"damage_dealt": 31999.828125,
+			"frags": 0.6794183254241943,
+			"dropped_capture_points": 0.9962233901023865,
+			"wins": 0.4933347702026367
+		},
+		{
+			"capture_points": 0.31654611229896545,
+			"planes_killed": 0.0003395828534848988,
+			"ship_id": 4292753392,
+			"damage_dealt": 9755.533203125,
+			"frags": 0.5624763369560242,
+			"dropped_capture_points": 2.042743444442749,
+			"wins": 0.478397935628891
+		},
+		{
+			"capture_points": 0.3857016861438751,
+			"planes_killed": 0.6489823460578918,
+			"ship_id": 4291770064,
+			"damage_dealt": 22121.892578125,
+			"frags": 0.5311237573623657,
+			"dropped_capture_points": 1.6983966827392578,
+			"wins": 0.47445064783096313
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 16.439905166625977,
+			"ship_id": 3763320528,
+			"damage_dealt": 67977.6015625,
+			"frags": 1.4063148498535156,
+			"dropped_capture_points": 0,
+			"wins": 0.5865243077278137
+		},
+		{
+			"capture_points": 0.02725844644010067,
+			"planes_killed": 1.9418903589248657,
+			"ship_id": 4281284304,
+			"damage_dealt": 57032,
+			"frags": 0.799602746963501,
+			"dropped_capture_points": 0.1140265241265297,
+			"wins": 0.5131553411483765
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.043673515319824,
+			"ship_id": 4181669680,
+			"damage_dealt": 57181.35546875,
+			"frags": 0.7962619662284851,
+			"dropped_capture_points": 0,
+			"wins": 0.5142097473144531
+		},
+		{
+			"capture_points": 0.12215300649404526,
+			"planes_killed": 7.748250484466553,
+			"ship_id": 4292851408,
+			"damage_dealt": 38311.171875,
+			"frags": 0.880650520324707,
+			"dropped_capture_points": 0.7302680015563965,
+			"wins": 0.517372727394104
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.2027793973684311,
+			"ship_id": 4077795024,
+			"damage_dealt": 31757.587890625,
+			"frags": 0.8195812106132507,
+			"dropped_capture_points": 0,
+			"wins": 0.5359746813774109
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.537511944770813,
+			"ship_id": 3555636944,
+			"damage_dealt": 33476.16015625,
+			"frags": 0.6979706287384033,
+			"dropped_capture_points": 0,
+			"wins": 0.5136758089065552
+		},
+		{
+			"capture_points": 0.16500750184059143,
+			"planes_killed": 0.6467223167419434,
+			"ship_id": 4264441840,
+			"damage_dealt": 21990.501953125,
+			"frags": 0.6199105381965637,
+			"dropped_capture_points": 0.5316670536994934,
+			"wins": 0.5145459175109863
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.9678144454956055,
+			"ship_id": 4182685648,
+			"damage_dealt": 41627.6796875,
+			"frags": 0.9137349724769592,
+			"dropped_capture_points": 0,
+			"wins": 0.523494303226471
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.12953075766563416,
+			"ship_id": 4182652112,
+			"damage_dealt": 37223.9609375,
+			"frags": 0.9644622802734375,
+			"dropped_capture_points": 0,
+			"wins": 0.5502684116363525
+		},
+		{
+			"capture_points": 0.09230132400989532,
+			"planes_killed": 0.2883860468864441,
+			"ship_id": 4287510224,
+			"damage_dealt": 27764.15234375,
+			"frags": 0.6327601075172424,
+			"dropped_capture_points": 0.1168912872672081,
+			"wins": 0.4940832257270813
+		},
+		{
+			"capture_points": 0.04555300623178482,
+			"planes_killed": 10.693449020385742,
+			"ship_id": 4290754544,
+			"damage_dealt": 26816.490234375,
+			"frags": 0.5708043575286865,
+			"dropped_capture_points": 0.423249214887619,
+			"wins": 0.4852219820022583
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0,
+			"ship_id": 3767449040,
+			"damage_dealt": 23799.296875,
+			"frags": 0.8355295062065125,
+			"dropped_capture_points": 0,
+			"wins": 0.5376356244087219
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.3431479930877686,
+			"ship_id": 3763288016,
+			"damage_dealt": 51103.23828125,
+			"frags": 0.8557596206665039,
+			"dropped_capture_points": 0,
+			"wins": 0.5229828953742981
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.0964941531419754,
+			"ship_id": 4186879824,
+			"damage_dealt": 20843.908203125,
+			"frags": 0.7825781106948853,
+			"dropped_capture_points": 0,
+			"wins": 0.510522723197937
+		},
+		{
+			"capture_points": 0.46150290966033936,
+			"planes_killed": 0.03161625191569328,
+			"ship_id": 4293834192,
+			"damage_dealt": 23575.966796875,
+			"frags": 0.9017332196235657,
+			"dropped_capture_points": 3.0851688385009766,
+			"wins": 0.522614061832428
+		},
+		{
+			"capture_points": 0.1593817174434662,
+			"planes_killed": 0.15129010379314423,
+			"ship_id": 4286527184,
+			"damage_dealt": 32026.728515625,
+			"frags": 0.8786184191703796,
+			"dropped_capture_points": 0.762292742729187,
+			"wins": 0.5309609174728394
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 3.1360020637512207,
+			"ship_id": 3761190896,
+			"damage_dealt": 70679.9921875,
+			"frags": 0.8898944854736328,
+			"dropped_capture_points": 0,
+			"wins": 0.5525272488594055
+		},
+		{
+			"capture_points": 0.44984835386276245,
+			"planes_killed": 0.030758634209632874,
+			"ship_id": 4279154384,
+			"damage_dealt": 16718.697265625,
+			"frags": 0.6321945190429688,
+			"dropped_capture_points": 3.355924606323242,
+			"wins": 0.4847833216190338
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.27039262652397156,
+			"ship_id": 4183701200,
+			"damage_dealt": 19993.38671875,
+			"frags": 0.5333693623542786,
+			"dropped_capture_points": 0,
+			"wins": 0.4841415584087372
+		},
+		{
+			"capture_points": 0.09119967371225357,
+			"planes_killed": 0.00010600364475976676,
+			"ship_id": 4292785968,
+			"damage_dealt": 15501.619140625,
+			"frags": 0.8318018317222595,
+			"dropped_capture_points": 0.3158893287181854,
+			"wins": 0.5246352553367615
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.19763199985027313,
+			"ship_id": 4077794768,
+			"damage_dealt": 24802.53515625,
+			"frags": 0.6002345085144043,
+			"dropped_capture_points": 0,
+			"wins": 0.5039232969284058
+		},
+		{
+			"capture_points": 0.2466307282447815,
+			"planes_killed": 0,
+			"ship_id": 4280170192,
+			"damage_dealt": 15404.107421875,
+			"frags": 0.933625340461731,
+			"dropped_capture_points": 0.9568732976913452,
+			"wins": 0.5370619893074036
+		},
+		{
+			"capture_points": 0.02167770266532898,
+			"planes_killed": 19.567869186401367,
+			"ship_id": 4279219920,
+			"damage_dealt": 84445.6015625,
+			"frags": 1.3133976459503174,
+			"dropped_capture_points": 0.508933961391449,
+			"wins": 0.536038339138031
+		},
+		{
+			"capture_points": 0.0004521657829172909,
+			"planes_killed": 0.9476578235626221,
+			"ship_id": 4182685488,
+			"damage_dealt": 27827.41796875,
+			"frags": 0.5756433606147766,
+			"dropped_capture_points": 0.0011614455142989755,
+			"wins": 0.4916616380214691
+		},
+		{
+			"capture_points": 0.0835232213139534,
+			"planes_killed": 1.1133198738098145,
+			"ship_id": 4255037136,
+			"damage_dealt": 38159.875,
+			"frags": 0.6508536338806152,
+			"dropped_capture_points": 0.5069178342819214,
+			"wins": 0.5108118057250977
+		},
+		{
+			"capture_points": 0.0005423653055913746,
+			"planes_killed": 1.4942550659179688,
+			"ship_id": 4181636912,
+			"damage_dealt": 33734.62890625,
+			"frags": 0.5341489315032959,
+			"dropped_capture_points": 0.0021644618827849627,
+			"wins": 0.4927246570587158
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.3759124279022217,
+			"ship_id": 4184782800,
+			"damage_dealt": 18973.46875,
+			"frags": 0.5471272468566895,
+			"dropped_capture_points": 0,
+			"wins": 0.4807111620903015
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.8119999170303345,
+			"ship_id": 4179539792,
+			"damage_dealt": 80496.671875,
+			"frags": 0.8528656959533691,
+			"dropped_capture_points": 0,
+			"wins": 0.5032610297203064
+		},
+		{
+			"capture_points": 0.0037736548110842705,
+			"planes_killed": 0.18089768290519714,
+			"ship_id": 4183700944,
+			"damage_dealt": 19329.568359375,
+			"frags": 0.6047428250312805,
+			"dropped_capture_points": 0.0026649506762623787,
+			"wins": 0.5039587616920471
+		},
+		{
+			"capture_points": 0.0005814369069412351,
+			"planes_killed": 1.4652454853057861,
+			"ship_id": 4180588336,
+			"damage_dealt": 50190.890625,
+			"frags": 0.6555942893028259,
+			"dropped_capture_points": 0.0027080897707492113,
+			"wins": 0.5099841356277466
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.0771636962890625,
+			"ship_id": 3522082512,
+			"damage_dealt": 30316.36328125,
+			"frags": 0.5676219463348389,
+			"dropped_capture_points": 0,
+			"wins": 0.49243471026420593
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 16.151866912841797,
+			"ship_id": 3762272048,
+			"damage_dealt": 47383.453125,
+			"frags": 0.7438649535179138,
+			"dropped_capture_points": 0,
+			"wins": 0.49138957262039185
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.3758087158203125,
+			"ship_id": 3762239184,
+			"damage_dealt": 55721.08203125,
+			"frags": 0.7022997140884399,
+			"dropped_capture_points": 0,
+			"wins": 0.5296890735626221
+		},
+		{
+			"capture_points": 0.011426221579313278,
+			"planes_killed": 3.6274728775024414,
+			"ship_id": 4273911792,
+			"damage_dealt": 66464.1640625,
+			"frags": 0.9114886522293091,
+			"dropped_capture_points": 0.07056964188814163,
+			"wins": 0.5145644545555115
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.5214595794677734,
+			"ship_id": 3765384944,
+			"damage_dealt": 54678.04296875,
+			"frags": 1.205914855003357,
+			"dropped_capture_points": 0,
+			"wins": 0.5719879269599915
+		},
+		{
+			"capture_points": 0.041419610381126404,
+			"planes_killed": 0.0028037962038069963,
+			"ship_id": 4293834544,
+			"damage_dealt": 8950.5126953125,
+			"frags": 0.8191167116165161,
+			"dropped_capture_points": 0.1106494590640068,
+			"wins": 0.5124688744544983
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.4113037586212158,
+			"ship_id": 4184749776,
+			"damage_dealt": 18389.857421875,
+			"frags": 0.5532347559928894,
+			"dropped_capture_points": 0,
+			"wins": 0.4849802851676941
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.7024506330490112,
+			"ship_id": 4183766992,
+			"damage_dealt": 44720.015625,
+			"frags": 0.7327731847763062,
+			"dropped_capture_points": 0,
+			"wins": 0.5041504502296448
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.003292281646281481,
+			"ship_id": 3554555600,
+			"damage_dealt": 31160.857421875,
+			"frags": 0.9117776155471802,
+			"dropped_capture_points": 0,
+			"wins": 0.5593007802963257
+		},
+		{
+			"capture_points": 0.6414654850959778,
+			"planes_killed": 0.023134540766477585,
+			"ship_id": 4293867504,
+			"damage_dealt": 18513.9921875,
+			"frags": 0.6153078675270081,
+			"dropped_capture_points": 3.3788352012634277,
+			"wins": 0.48221614956855774
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.6341054439544678,
+			"ship_id": 4179506992,
+			"damage_dealt": 44163.2109375,
+			"frags": 0.8436490297317505,
+			"dropped_capture_points": 0,
+			"wins": 0.5338544249534607
+		},
+		{
+			"capture_points": 0.0007253377116285264,
+			"planes_killed": 0.12930487096309662,
+			"ship_id": 3769513264,
+			"damage_dealt": 29638.095703125,
+			"frags": 0.7755727171897888,
+			"dropped_capture_points": 0.0012556215515360236,
+			"wins": 0.539991557598114
+		},
+		{
+			"capture_points": 0.023923663422465324,
+			"planes_killed": 0.0030567431822419167,
+			"ship_id": 4277024464,
+			"damage_dealt": 35253.8125,
+			"frags": 1.1669455766677856,
+			"dropped_capture_points": 0.01784268580377102,
+			"wins": 0.5739414095878601
+		},
+		{
+			"capture_points": 0.35530340671539307,
+			"planes_killed": 2.2795205116271973,
+			"ship_id": 4290688720,
+			"damage_dealt": 24745.642578125,
+			"frags": 0.8313291668891907,
+			"dropped_capture_points": 2.310275077819824,
+			"wins": 0.5268545150756836
+		},
+		{
+			"capture_points": 0.44352659583091736,
+			"planes_killed": 0.002210634294897318,
+			"ship_id": 4292753104,
+			"damage_dealt": 14942.5419921875,
+			"frags": 0.837867021560669,
+			"dropped_capture_points": 1.5139573812484741,
+			"wins": 0.5275462865829468
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.8610025644302368,
+			"ship_id": 4179539408,
+			"damage_dealt": 76898.453125,
+			"frags": 0.8433300852775574,
+			"dropped_capture_points": 0,
+			"wins": 0.5138117671012878
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3278634548187256,
+			"ship_id": 3763255280,
+			"damage_dealt": 30039.271484375,
+			"frags": 0.5912532210350037,
+			"dropped_capture_points": 0,
+			"wins": 0.5064883828163147
+		},
+		{
+			"capture_points": 0.06535724550485611,
+			"planes_killed": 13.270036697387695,
+			"ship_id": 4288657392,
+			"damage_dealt": 29904.087890625,
+			"frags": 0.545344352722168,
+			"dropped_capture_points": 0.5461444854736328,
+			"wins": 0.4861065149307251
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.15806184709072113,
+			"ship_id": 3763221968,
+			"damage_dealt": 30599.966796875,
+			"frags": 0.7823218107223511,
+			"dropped_capture_points": 0,
+			"wins": 0.5438991189002991
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.0030379975214600563,
+			"ship_id": 4186847024,
+			"damage_dealt": 18515.37109375,
+			"frags": 0.8359879851341248,
+			"dropped_capture_points": 0,
+			"wins": 0.5254096388816833
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3688582181930542,
+			"ship_id": 4181669840,
+			"damage_dealt": 61810.015625,
+			"frags": 0.7440873980522156,
+			"dropped_capture_points": 0,
+			"wins": 0.5187604427337646
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.37892553210258484,
+			"ship_id": 3552458448,
+			"damage_dealt": 26095.794921875,
+			"frags": 0.5951166152954102,
+			"dropped_capture_points": 0,
+			"wins": 0.5136390924453735
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.7874653339385986,
+			"ship_id": 3762173936,
+			"damage_dealt": 28688.263671875,
+			"frags": 0.681293249130249,
+			"dropped_capture_points": 0,
+			"wins": 0.5483623147010803
+		},
+		{
+			"capture_points": 0.5117246508598328,
+			"planes_killed": 0.0002332246076548472,
+			"ship_id": 4292786160,
+			"damage_dealt": 10161.984375,
+			"frags": 0.4412779211997986,
+			"dropped_capture_points": 4.99969482421875,
+			"wins": 0.4728473126888275
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0,
+			"ship_id": 4188976976,
+			"damage_dealt": 4891.48486328125,
+			"frags": 0.6144763827323914,
+			"dropped_capture_points": 0,
+			"wins": 0.4965437054634094
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 3.9288010597229004,
+			"ship_id": 4179539920,
+			"damage_dealt": 66314.703125,
+			"frags": 1.0058269500732422,
+			"dropped_capture_points": 0,
+			"wins": 0.5104904174804688
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.20719417929649353,
+			"ship_id": 4079891920,
+			"damage_dealt": 17026.12890625,
+			"frags": 0.5311002731323242,
+			"dropped_capture_points": 0,
+			"wins": 0.48638346791267395
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8171712756156921,
+			"ship_id": 3764303312,
+			"damage_dealt": 36462.6171875,
+			"frags": 0.784741222858429,
+			"dropped_capture_points": 0,
+			"wins": 0.5327739119529724
+		},
+		{
+			"capture_points": 0.04876730963587761,
+			"planes_killed": 1.0821558237075806,
+			"ship_id": 4284430032,
+			"damage_dealt": 47028.2890625,
+			"frags": 0.741746723651886,
+			"dropped_capture_points": 0.20131713151931763,
+			"wins": 0.49578621983528137
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.9130356311798096,
+			"ship_id": 4074649040,
+			"damage_dealt": 43263.98046875,
+			"frags": 0.7687345743179321,
+			"dropped_capture_points": 0,
+			"wins": 0.5055175423622131
+		},
+		{
+			"capture_points": 0.10049702972173691,
+			"planes_killed": 1.424290657043457,
+			"ship_id": 4286494416,
+			"damage_dealt": 32890.30859375,
+			"frags": 0.6782290935516357,
+			"dropped_capture_points": 0.48917803168296814,
+			"wins": 0.5034990310668945
+		},
+		{
+			"capture_points": 0.00019232254999224097,
+			"planes_killed": 2.1341071128845215,
+			"ship_id": 4179539760,
+			"damage_dealt": 75237.9921875,
+			"frags": 0.8513751029968262,
+			"dropped_capture_points": 0.0013997633941471577,
+			"wins": 0.5004562735557556
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.9385966062545776,
+			"ship_id": 3763287856,
+			"damage_dealt": 52855.34375,
+			"frags": 0.9769933223724365,
+			"dropped_capture_points": 0,
+			"wins": 0.5344808101654053
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.551074743270874,
+			"ship_id": 3761190608,
+			"damage_dealt": 91479.5546875,
+			"frags": 0.918861985206604,
+			"dropped_capture_points": 0,
+			"wins": 0.5610615611076355
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.07622648030519485,
+			"ship_id": 4186912720,
+			"damage_dealt": 32511.994140625,
+			"frags": 0.9290880560874939,
+			"dropped_capture_points": 0,
+			"wins": 0.5178338885307312
+		},
+		{
+			"capture_points": 0.42952755093574524,
+			"planes_killed": 0.07211767137050629,
+			"ship_id": 4291704528,
+			"damage_dealt": 22716.365234375,
+			"frags": 0.842657208442688,
+			"dropped_capture_points": 0.6690670251846313,
+			"wins": 0.5070371031761169
+		},
+		{
+			"capture_points": 0.028366582468152046,
+			"planes_killed": 2.9174342155456543,
+			"ship_id": 4276041712,
+			"damage_dealt": 58887.25,
+			"frags": 0.7098296284675598,
+			"dropped_capture_points": 0.12773588299751282,
+			"wins": 0.49322354793548584
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.08987638354301453,
+			"ship_id": 4076746448,
+			"damage_dealt": 28546.9296875,
+			"frags": 0.6225088834762573,
+			"dropped_capture_points": 0,
+			"wins": 0.4977257549762726
+		},
+		{
+			"capture_points": 0.02271595411002636,
+			"planes_killed": 26.414104461669922,
+			"ship_id": 4279220208,
+			"damage_dealt": 99294.1171875,
+			"frags": 1.3096468448638916,
+			"dropped_capture_points": 0.2702982723712921,
+			"wins": 0.4944682717323303
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.372497022151947,
+			"ship_id": 4184749872,
+			"damage_dealt": 17853.23828125,
+			"frags": 0.5729541182518005,
+			"dropped_capture_points": 0,
+			"wins": 0.48905107378959656
+		},
+		{
+			"capture_points": 0.11019529402256012,
+			"planes_killed": 0.284017413854599,
+			"ship_id": 4289607664,
+			"damage_dealt": 19018.84765625,
+			"frags": 0.6041603684425354,
+			"dropped_capture_points": 0.2816374897956848,
+			"wins": 0.4978416860103607
+		},
+		{
+			"capture_points": 0.26575082540512085,
+			"planes_killed": 0.021166853606700897,
+			"ship_id": 4274927600,
+			"damage_dealt": 19863.6640625,
+			"frags": 0.8016563653945923,
+			"dropped_capture_points": 0.8347364068031311,
+			"wins": 0.5078371167182922
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.110615074634552,
+			"ship_id": 3767416176,
+			"damage_dealt": 22184.623046875,
+			"frags": 1.0326476097106934,
+			"dropped_capture_points": 0,
+			"wins": 0.5499769449234009
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 5.281805038452148,
+			"ship_id": 3553540080,
+			"damage_dealt": 57850.171875,
+			"frags": 1.3543647527694702,
+			"dropped_capture_points": 0,
+			"wins": 0.6642449498176575
+		},
+		{
+			"capture_points": 0.09120232611894608,
+			"planes_killed": 0.857216477394104,
+			"ship_id": 4288624336,
+			"damage_dealt": 43965.5,
+			"frags": 0.8419548869132996,
+			"dropped_capture_points": 0.4237295091152191,
+			"wins": 0.5104444622993469
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.40260234475135803,
+			"ship_id": 4180554960,
+			"damage_dealt": 52486.5078125,
+			"frags": 0.964882493019104,
+			"dropped_capture_points": 0,
+			"wins": 0.5692865252494812
+		},
+		{
+			"capture_points": 0.0022646815050393343,
+			"planes_killed": 0.6414785385131836,
+			"ship_id": 4182652368,
+			"damage_dealt": 41945.43359375,
+			"frags": 0.7755086421966553,
+			"dropped_capture_points": 0.005263353232294321,
+			"wins": 0.5290018916130066
+		},
+		{
+			"capture_points": 0.002131829969584942,
+			"planes_killed": 0.2633151412010193,
+			"ship_id": 4180555216,
+			"damage_dealt": 27404.044921875,
+			"frags": 0.7215902805328369,
+			"dropped_capture_points": 0.0035740251187235117,
+			"wins": 0.5163668394088745
+		},
+		{
+			"capture_points": 0.010064730420708656,
+			"planes_killed": 1.977002739906311,
+			"ship_id": 4276041424,
+			"damage_dealt": 88240.875,
+			"frags": 0.8677396774291992,
+			"dropped_capture_points": 0.0552498959004879,
+			"wins": 0.5067917704582214
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.0001678375992923975,
+			"ship_id": 3768497968,
+			"damage_dealt": 16632.421875,
+			"frags": 0.8623060584068298,
+			"dropped_capture_points": 0,
+			"wins": 0.5304345488548279
+		},
+		{
+			"capture_points": 0.12318091839551926,
+			"planes_killed": 1.2249714136123657,
+			"ship_id": 4292818896,
+			"damage_dealt": 44574.34765625,
+			"frags": 0.864206075668335,
+			"dropped_capture_points": 0.5288712978363037,
+			"wins": 0.5206485390663147
+		},
+		{
+			"capture_points": 0.7785773873329163,
+			"planes_killed": 0.0007899394840933383,
+			"ship_id": 4291737584,
+			"damage_dealt": 14249.1328125,
+			"frags": 0.7870826125144958,
+			"dropped_capture_points": 5.648510456085205,
+			"wins": 0.5182725191116333
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 3.025782346725464,
+			"ship_id": 3555670000,
+			"damage_dealt": 41229.23828125,
+			"frags": 0.8653612732887268,
+			"dropped_capture_points": 0,
+			"wins": 0.5440036654472351
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.15780849754810333,
+			"ship_id": 4183701296,
+			"damage_dealt": 22802.62890625,
+			"frags": 0.6501779556274414,
+			"dropped_capture_points": 0,
+			"wins": 0.5183022618293762
+		},
+		{
+			"capture_points": 0.783695638179779,
+			"planes_killed": 0.007340400479733944,
+			"ship_id": 4256085712,
+			"damage_dealt": 11406.4013671875,
+			"frags": 0.9030666947364807,
+			"dropped_capture_points": 6.3020148277282715,
+			"wins": 0.5219955444335938
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 23.772851943969727,
+			"ship_id": 3763320816,
+			"damage_dealt": 49320.01953125,
+			"frags": 0.9629361033439636,
+			"dropped_capture_points": 0,
+			"wins": 0.5708892345428467
+		},
+		{
+			"capture_points": 0.04667592793703079,
+			"planes_killed": 0.18281996250152588,
+			"ship_id": 4288559088,
+			"damage_dealt": 20578.271484375,
+			"frags": 0.583700954914093,
+			"dropped_capture_points": 0.09515079855918884,
+			"wins": 0.49097269773483276
+		},
+		{
+			"capture_points": 0.7645107507705688,
+			"planes_killed": 0,
+			"ship_id": 4284397008,
+			"damage_dealt": 21018.654296875,
+			"frags": 1.0547263622283936,
+			"dropped_capture_points": 9.714759826660156,
+			"wins": 0.5671641826629639
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.4249204397201538,
+			"ship_id": 3555669712,
+			"damage_dealt": 39967.85546875,
+			"frags": 0.8512403964996338,
+			"dropped_capture_points": 0,
+			"wins": 0.5349729657173157
+		},
+		{
+			"capture_points": 0.03349583223462105,
+			"planes_killed": 14.250256538391113,
+			"ship_id": 4292851696,
+			"damage_dealt": 23471.236328125,
+			"frags": 0.4597093462944031,
+			"dropped_capture_points": 0.6666035056114197,
+			"wins": 0.4807735085487366
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.9784101247787476,
+			"ship_id": 3553539792,
+			"damage_dealt": 29688.7734375,
+			"frags": 0.5555970072746277,
+			"dropped_capture_points": 0,
+			"wins": 0.49020078778266907
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.38241714239120483,
+			"ship_id": 4078843600,
+			"damage_dealt": 22238.056640625,
+			"frags": 0.6140048503875732,
+			"dropped_capture_points": 0,
+			"wins": 0.5087226033210754
+		},
+		{
+			"capture_points": 0.01985154114663601,
+			"planes_killed": 0.17327652871608734,
+			"ship_id": 4184749520,
+			"damage_dealt": 18657.203125,
+			"frags": 0.655485987663269,
+			"dropped_capture_points": 0.03881966322660446,
+			"wins": 0.4988141357898712
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 5.284022808074951,
+			"ship_id": 3552524272,
+			"damage_dealt": 71843.3828125,
+			"frags": 1.0652118921279907,
+			"dropped_capture_points": 0,
+			"wins": 0.6119428277015686
+		},
+		{
+			"capture_points": 0.012852323241531849,
+			"planes_killed": 14.96876049041748,
+			"ship_id": 4282365936,
+			"damage_dealt": 54925.5,
+			"frags": 0.8431748747825623,
+			"dropped_capture_points": 0.15087275207042694,
+			"wins": 0.47821035981178284
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.00007942310185171664,
+			"ship_id": 4187895600,
+			"damage_dealt": 16806.509765625,
+			"frags": 1.0549618005752563,
+			"dropped_capture_points": 0,
+			"wins": 0.5433609485626221
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.1538461595773697,
+			"ship_id": 3763255024,
+			"damage_dealt": 31230.115234375,
+			"frags": 0.5384615659713745,
+			"dropped_capture_points": 0,
+			"wins": 0.4615384638309479
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.4881466627120972,
+			"ship_id": 3762206512,
+			"damage_dealt": 33901.32421875,
+			"frags": 0.5023156404495239,
+			"dropped_capture_points": 0,
+			"wins": 0.4960898458957672
+		},
+		{
+			"capture_points": 0.06344646215438843,
+			"planes_killed": 1.1138818264007568,
+			"ship_id": 4285445840,
+			"damage_dealt": 37986.70703125,
+			"frags": 0.6604554057121277,
+			"dropped_capture_points": 0.3511732518672943,
+			"wins": 0.49863365292549133
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.6249836683273315,
+			"ship_id": 3551410160,
+			"damage_dealt": 50832.00390625,
+			"frags": 1.0920401811599731,
+			"dropped_capture_points": 0,
+			"wins": 0.6558442711830139
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8258596062660217,
+			"ship_id": 4183734224,
+			"damage_dealt": 31380.177734375,
+			"frags": 0.7766603827476501,
+			"dropped_capture_points": 0,
+			"wins": 0.5188307762145996
+		},
+		{
+			"capture_points": 0.025358159095048904,
+			"planes_killed": 17.27838706970215,
+			"ship_id": 4282365648,
+			"damage_dealt": 57892.83203125,
+			"frags": 0.9465384483337402,
+			"dropped_capture_points": 0.48280876874923706,
+			"wins": 0.5273177623748779
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2454583644866943,
+			"ship_id": 3762239216,
+			"damage_dealt": 65852.1875,
+			"frags": 0.8718039393424988,
+			"dropped_capture_points": 0,
+			"wins": 0.5492866635322571
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.004492202308028936,
+			"ship_id": 3764271056,
+			"damage_dealt": 25814.12109375,
+			"frags": 0.7630329728126526,
+			"dropped_capture_points": 0,
+			"wins": 0.5344268083572388
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.5555555820465088,
+			"ship_id": 4293867312,
+			"damage_dealt": 47393.109375,
+			"frags": 1.1111111640930176,
+			"dropped_capture_points": 13.777777671813965,
+			"wins": 0.3333333432674408
+		},
+		{
+			"capture_points": 0.21885284781455994,
+			"planes_killed": 2.725396156311035,
+			"ship_id": 4287543280,
+			"damage_dealt": 28651.705078125,
+			"frags": 0.7291598320007324,
+			"dropped_capture_points": 1.2699377536773682,
+			"wins": 0.5071630477905273
+		},
+		{
+			"capture_points": 0.3784588575363159,
+			"planes_killed": 0.40951675176620483,
+			"ship_id": 4289607376,
+			"damage_dealt": 20048.48046875,
+			"frags": 0.5579496622085571,
+			"dropped_capture_points": 0.3288552761077881,
+			"wins": 0.4866677224636078
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.02777777798473835,
+			"ship_id": 3764270928,
+			"damage_dealt": 53559.6953125,
+			"frags": 1.6666666269302368,
+			"dropped_capture_points": 0,
+			"wins": 0.6388888955116272
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.4446262121200562,
+			"ship_id": 3765384656,
+			"damage_dealt": 46580.38671875,
+			"frags": 0.9846526980400085,
+			"dropped_capture_points": 0,
+			"wins": 0.5317807793617249
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.10422389954328537,
+			"ship_id": 4078843344,
+			"damage_dealt": 18086.802734375,
+			"frags": 0.502569854259491,
+			"dropped_capture_points": 0,
+			"wins": 0.49246668815612793
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.598944365978241,
+			"ship_id": 3764303216,
+			"damage_dealt": 32763.720703125,
+			"frags": 0.7718751430511475,
+			"dropped_capture_points": 0,
+			"wins": 0.541253924369812
+		},
+		{
+			"capture_points": 0.1520133763551712,
+			"planes_killed": 0,
+			"ship_id": 4283381456,
+			"damage_dealt": 14256.556640625,
+			"frags": 0.6925951838493347,
+			"dropped_capture_points": 0.5628801584243774,
+			"wins": 0.5256597995758057
+		},
+		{
+			"capture_points": 0.44980329275131226,
+			"planes_killed": 0.08110032975673676,
+			"ship_id": 4290655952,
+			"damage_dealt": 25828.591796875,
+			"frags": 0.8603036403656006,
+			"dropped_capture_points": 0.5498149991035461,
+			"wins": 0.508491575717926
+		},
+		{
+			"capture_points": 0.06407466530799866,
+			"planes_killed": 0.002321934560313821,
+			"ship_id": 4186846672,
+			"damage_dealt": 13599.087890625,
+			"frags": 0.6686064004898071,
+			"dropped_capture_points": 0.11983434110879898,
+			"wins": 0.5003601908683777
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.857142925262451,
+			"ship_id": 3751753712,
+			"damage_dealt": 90938.5703125,
+			"frags": 2,
+			"dropped_capture_points": 0,
+			"wins": 0.4285714328289032
+		},
+		{
+			"capture_points": 0.06443651020526886,
+			"planes_killed": 1.7386242151260376,
+			"ship_id": 4280203248,
+			"damage_dealt": 30571.642578125,
+			"frags": 0.5050907135009766,
+			"dropped_capture_points": 0.3015594482421875,
+			"wins": 0.4830954670906067
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.20003177225589752,
+			"ship_id": 4075697872,
+			"damage_dealt": 34304.93359375,
+			"frags": 0.6786242127418518,
+			"dropped_capture_points": 0,
+			"wins": 0.500325083732605
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.0340124368667603,
+			"ship_id": 3551442640,
+			"damage_dealt": 29503.3203125,
+			"frags": 0.565585732460022,
+			"dropped_capture_points": 0,
+			"wins": 0.48982977867126465
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2803823947906494,
+			"ship_id": 3552523984,
+			"damage_dealt": 35746.9140625,
+			"frags": 0.7214218378067017,
+			"dropped_capture_points": 0,
+			"wins": 0.5162283778190613
+		},
+		{
+			"capture_points": 1.0439393520355225,
+			"planes_killed": 0.22196969389915466,
+			"ship_id": 4247697392,
+			"damage_dealt": 38634.23828125,
+			"frags": 1.2363636493682861,
+			"dropped_capture_points": 5.867424011230469,
+			"wins": 0.6007575988769531
+		},
+		{
+			"capture_points": 0.043744638562202454,
+			"planes_killed": 0.0006902656750753522,
+			"ship_id": 4188976592,
+			"damage_dealt": 10240.0615234375,
+			"frags": 0.9116227626800537,
+			"dropped_capture_points": 0.11378764361143112,
+			"wins": 0.5283865928649902
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.3573087751865387,
+			"ship_id": 4181603536,
+			"damage_dealt": 35338.12109375,
+			"frags": 0.7395962476730347,
+			"dropped_capture_points": 0,
+			"wins": 0.5321016311645508
+		},
+		{
+			"capture_points": 0.33769726753234863,
+			"planes_killed": 0.16903379559516907,
+			"ship_id": 4269717488,
+			"damage_dealt": 20144.65234375,
+			"frags": 0.5960765480995178,
+			"dropped_capture_points": 2.71401309967041,
+			"wins": 0.4872886538505554
+		},
+		{
+			"capture_points": 0.05089645832777023,
+			"planes_killed": 10.044929504394531,
+			"ship_id": 4285511376,
+			"damage_dealt": 40341.59375,
+			"frags": 0.7862793803215027,
+			"dropped_capture_points": 0.9458648562431335,
+			"wins": 0.5171425342559814
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.7674567699432373,
+			"ship_id": 3532568272,
+			"damage_dealt": 28181.73046875,
+			"frags": 0.4657270908355713,
+			"dropped_capture_points": 0,
+			"wins": 0.46252402663230896
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.34377411007881165,
+			"ship_id": 4179506384,
+			"damage_dealt": 61765.6328125,
+			"frags": 1.0246212482452393,
+			"dropped_capture_points": 0,
+			"wins": 0.5583708882331848
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2769525051116943,
+			"ship_id": 3764336464,
+			"damage_dealt": 47708.48828125,
+			"frags": 0.8640066385269165,
+			"dropped_capture_points": 0,
+			"wins": 0.5345169901847839
+		},
+		{
+			"capture_points": 0.43807923793792725,
+			"planes_killed": 0.6337944269180298,
+			"ship_id": 4290721776,
+			"damage_dealt": 28367.28125,
+			"frags": 0.737511396408081,
+			"dropped_capture_points": 2.144321918487549,
+			"wins": 0.49619734287261963
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8987535238265991,
+			"ship_id": 4184782672,
+			"damage_dealt": 29091.759765625,
+			"frags": 0.7288588285446167,
+			"dropped_capture_points": 0,
+			"wins": 0.5234249830245972
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.07097448408603668,
+			"ship_id": 4184749264,
+			"damage_dealt": 23407.97265625,
+			"frags": 0.7016596794128418,
+			"dropped_capture_points": 0,
+			"wins": 0.5054875612258911
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3609999418258667,
+			"ship_id": 3659445712,
+			"damage_dealt": 30057.357421875,
+			"frags": 0.5845857858657837,
+			"dropped_capture_points": 0,
+			"wins": 0.50978022813797
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.6441941261291504,
+			"ship_id": 4180588496,
+			"damage_dealt": 50931.02734375,
+			"frags": 0.7851366400718689,
+			"dropped_capture_points": 0,
+			"wins": 0.51473468542099
+		},
+		{
+			"capture_points": 0.0328071154654026,
+			"planes_killed": 22.414813995361328,
+			"ship_id": 4277122768,
+			"damage_dealt": 101653.625,
+			"frags": 1.4740866422653198,
+			"dropped_capture_points": 0.5980737209320068,
+			"wins": 0.5365321040153503
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8661132454872131,
+			"ship_id": 3764303600,
+			"damage_dealt": 29552.19140625,
+			"frags": 0.6772986054420471,
+			"dropped_capture_points": 0,
+			"wins": 0.524149477481842
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.4370691776275635,
+			"ship_id": 4184815408,
+			"damage_dealt": 40422.58203125,
+			"frags": 0.8718419075012207,
+			"dropped_capture_points": 0,
+			"wins": 0.5200039148330688
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.37642303109169006,
+			"ship_id": 3767449296,
+			"damage_dealt": 25640.01953125,
+			"frags": 0.8782698512077332,
+			"dropped_capture_points": 0,
+			"wins": 0.5339503884315491
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.08626730740070343,
+			"ship_id": 4185797840,
+			"damage_dealt": 26971.150390625,
+			"frags": 0.9888291358947754,
+			"dropped_capture_points": 0,
+			"wins": 0.5315667390823364
+		},
+		{
+			"capture_points": 0.14235790073871613,
+			"planes_killed": 0,
+			"ship_id": 4292785616,
+			"damage_dealt": 16561.837890625,
+			"frags": 0.7668194770812988,
+			"dropped_capture_points": 0.9782480597496033,
+			"wins": 0.5187281370162964
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8276458382606506,
+			"ship_id": 4183733712,
+			"damage_dealt": 32811.16015625,
+			"frags": 0.7376158237457275,
+			"dropped_capture_points": 0,
+			"wins": 0.5181116461753845
+		},
+		{
+			"capture_points": 0.018755270168185234,
+			"planes_killed": 15.647706031799316,
+			"ship_id": 4284463088,
+			"damage_dealt": 41935.66015625,
+			"frags": 0.7053148150444031,
+			"dropped_capture_points": 0.3461889624595642,
+			"wins": 0.4693734645843506
+		},
+		{
+			"capture_points": 0.022651445120573044,
+			"planes_killed": 0.17975030839443207,
+			"ship_id": 4282267344,
+			"damage_dealt": 46414.75390625,
+			"frags": 0.7795621752738953,
+			"dropped_capture_points": 0.02589835226535797,
+			"wins": 0.49336397647857666
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.07714561372995377,
+			"ship_id": 3767482160,
+			"damage_dealt": 36880.890625,
+			"frags": 1.2649675607681274,
+			"dropped_capture_points": 0,
+			"wins": 0.5790054202079773
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.059473637491464615,
+			"ship_id": 4186879952,
+			"damage_dealt": 18215.005859375,
+			"frags": 0.7190954089164734,
+			"dropped_capture_points": 0,
+			"wins": 0.5101773738861084
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.000017076794392778538,
+			"ship_id": 4188976336,
+			"damage_dealt": 5163.5048828125,
+			"frags": 0.8617975115776062,
+			"dropped_capture_points": 0,
+			"wins": 0.5156167149543762
+		},
+		{
+			"capture_points": 0.03827233985066414,
+			"planes_killed": 2.490023136138916,
+			"ship_id": 4277057520,
+			"damage_dealt": 38558.875,
+			"frags": 0.5714905261993408,
+			"dropped_capture_points": 0.19133305549621582,
+			"wins": 0.4991408586502075
+		},
+		{
+			"capture_points": 0.7038308382034302,
+			"planes_killed": 0.049105528742074966,
+			"ship_id": 4293867216,
+			"damage_dealt": 17901.232421875,
+			"frags": 0.6582691073417664,
+			"dropped_capture_points": 2.909909248352051,
+			"wins": 0.49217459559440613
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.571535110473633,
+			"ship_id": 4182718256,
+			"damage_dealt": 47583.0859375,
+			"frags": 0.828036904335022,
+			"dropped_capture_points": 0,
+			"wins": 0.5099919438362122
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.03220510855317116,
+			"ship_id": 3765319120,
+			"damage_dealt": 25336.28515625,
+			"frags": 0.8823068737983704,
+			"dropped_capture_points": 0,
+			"wins": 0.5310310125350952
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8791735768318176,
+			"ship_id": 4182685520,
+			"damage_dealt": 38334.06640625,
+			"frags": 0.6756628751754761,
+			"dropped_capture_points": 0,
+			"wins": 0.5050344467163086
+		},
+		{
+			"capture_points": 0.03581066429615021,
+			"planes_killed": 3.0092568397521973,
+			"ship_id": 4282333168,
+			"damage_dealt": 51598.1328125,
+			"frags": 0.7240521907806396,
+			"dropped_capture_points": 0.14754043519496918,
+			"wins": 0.49489760398864746
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.031254421919584274,
+			"ship_id": 4185798448,
+			"damage_dealt": 21893.20703125,
+			"frags": 0.8460323810577393,
+			"dropped_capture_points": 0,
+			"wins": 0.5241753458976746
+		},
+		{
+			"capture_points": 0.023075375705957413,
+			"planes_killed": 0.39972448348999023,
+			"ship_id": 4286461936,
+			"damage_dealt": 28186.55078125,
+			"frags": 0.7014679312705994,
+			"dropped_capture_points": 0.04498568922281265,
+			"wins": 0.5144733190536499
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2845125198364258,
+			"ship_id": 3553572560,
+			"damage_dealt": 36621.0078125,
+			"frags": 0.7483394145965576,
+			"dropped_capture_points": 0,
+			"wins": 0.5192215442657471
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3696070909500122,
+			"ship_id": 4181636560,
+			"damage_dealt": 41072.10546875,
+			"frags": 0.6427284479141235,
+			"dropped_capture_points": 0,
+			"wins": 0.5041918754577637
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.588965892791748,
+			"ship_id": 3763255248,
+			"damage_dealt": 48614.4375,
+			"frags": 1.0114940404891968,
+			"dropped_capture_points": 0,
+			"wins": 0.573930025100708
+		},
+		{
+			"capture_points": 0.10978348553180695,
+			"planes_killed": 0,
+			"ship_id": 4186879792,
+			"damage_dealt": 15187.861328125,
+			"frags": 0.6083885431289673,
+			"dropped_capture_points": 0.3440294563770294,
+			"wins": 0.4948001205921173
+		},
+		{
+			"capture_points": 0.49923837184906006,
+			"planes_killed": 0.9497249722480774,
+			"ship_id": 4267620048,
+			"damage_dealt": 34603.21875,
+			"frags": 1.2396727800369263,
+			"dropped_capture_points": 2.5430233478546143,
+			"wins": 0.5862884521484375
+		},
+		{
+			"capture_points": 0.5109972953796387,
+			"planes_killed": 0,
+			"ship_id": 4281284592,
+			"damage_dealt": 38030.30078125,
+			"frags": 1.0647176504135132,
+			"dropped_capture_points": 2.5779802799224854,
+			"wins": 0.548075258731842
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0,
+			"ship_id": 4188977104,
+			"damage_dealt": 6073.48046875,
+			"frags": 0.9639589190483093,
+			"dropped_capture_points": 0,
+			"wins": 0.5333400368690491
+		},
+		{
+			"capture_points": 0.24918349087238312,
+			"planes_killed": 0.37542393803596497,
+			"ship_id": 4289640144,
+			"damage_dealt": 20206.44921875,
+			"frags": 0.5398173332214355,
+			"dropped_capture_points": 1.2448937892913818,
+			"wins": 0.4802514910697937
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.069434642791748,
+			"ship_id": 4183734096,
+			"damage_dealt": 28355.205078125,
+			"frags": 0.5813093185424805,
+			"dropped_capture_points": 0,
+			"wins": 0.4962308406829834
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.7307944297790527,
+			"ship_id": 4180621264,
+			"damage_dealt": 77309.921875,
+			"frags": 0.7638368606567383,
+			"dropped_capture_points": 0,
+			"wins": 0.5230571627616882
+		},
+		{
+			"capture_points": 0.20122696459293365,
+			"planes_killed": 0.3578154742717743,
+			"ship_id": 4280170480,
+			"damage_dealt": 17868.431640625,
+			"frags": 0.6388368010520935,
+			"dropped_capture_points": 0.6383687257766724,
+			"wins": 0.48118075728416443
+		},
+		{
+			"capture_points": 0.09877017885446548,
+			"planes_killed": 0.15561971068382263,
+			"ship_id": 4284364496,
+			"damage_dealt": 34274.1953125,
+			"frags": 0.6631383895874023,
+			"dropped_capture_points": 0.11576230078935623,
+			"wins": 0.49279889464378357
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.0004927709233015776,
+			"ship_id": 4187928528,
+			"damage_dealt": 15192.1865234375,
+			"frags": 0.6366192698478699,
+			"dropped_capture_points": 0,
+			"wins": 0.5166243314743042
+		},
+		{
+			"capture_points": 0.04043887183070183,
+			"planes_killed": 0.0700732097029686,
+			"ship_id": 4185798096,
+			"damage_dealt": 16704.34375,
+			"frags": 0.6586261987686157,
+			"dropped_capture_points": 0.07963918894529343,
+			"wins": 0.49815550446510315
+		},
+		{
+			"capture_points": 0.009358003735542297,
+			"planes_killed": 0.6357477307319641,
+			"ship_id": 4281219056,
+			"damage_dealt": 46580.45703125,
+			"frags": 0.8054714202880859,
+			"dropped_capture_points": 0.01640983670949936,
+			"wins": 0.5016582012176514
+		},
+		{
+			"capture_points": 0.0453033521771431,
+			"planes_killed": 0.0004344942863099277,
+			"ship_id": 4187895248,
+			"damage_dealt": 10435.0732421875,
+			"frags": 0.6660338044166565,
+			"dropped_capture_points": 0.11906241625547409,
+			"wins": 0.49785518646240234
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.1900826394557953,
+			"ship_id": 3764270896,
+			"damage_dealt": 46662.35546875,
+			"frags": 1.5123966932296753,
+			"dropped_capture_points": 0,
+			"wins": 0.6694214940071106
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.072441816329956,
+			"ship_id": 3543054032,
+			"damage_dealt": 32280.14453125,
+			"frags": 0.6034112572669983,
+			"dropped_capture_points": 0,
+			"wins": 0.4944157302379608
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.9862924814224243,
+			"ship_id": 4180621104,
+			"damage_dealt": 59987.79296875,
+			"frags": 0.7046318650245667,
+			"dropped_capture_points": 0,
+			"wins": 0.497882604598999
+		},
+		{
+			"capture_points": 0.0013083353405818343,
+			"planes_killed": 0.33319196105003357,
+			"ship_id": 4181603792,
+			"damage_dealt": 27087.912109375,
+			"frags": 0.6146312952041626,
+			"dropped_capture_points": 0.0030195978470146656,
+			"wins": 0.49570828676223755
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.058111310005188,
+			"ship_id": 4182718416,
+			"damage_dealt": 60673.5546875,
+			"frags": 0.9209561944007874,
+			"dropped_capture_points": 0,
+			"wins": 0.5292976498603821
+		},
+		{
+			"capture_points": 0.5615914463996887,
+			"planes_killed": 0.00006618358747800812,
+			"ship_id": 4258182864,
+			"damage_dealt": 13405.6611328125,
+			"frags": 0.5871788263320923,
+			"dropped_capture_points": 4.985314846038818,
+			"wins": 0.5014055967330933
+		},
+		{
+			"capture_points": 0.016332348808646202,
+			"planes_killed": 0.8378477692604065,
+			"ship_id": 4272830448,
+			"damage_dealt": 37239.25390625,
+			"frags": 0.7854205369949341,
+			"dropped_capture_points": 0.029958534985780716,
+			"wins": 0.5227845311164856
+		},
+		{
+			"capture_points": 0.087984599173069,
+			"planes_killed": 8.414745330810547,
+			"ship_id": 4288657104,
+			"damage_dealt": 42745.31640625,
+			"frags": 0.9201277494430542,
+			"dropped_capture_points": 0.9774484038352966,
+			"wins": 0.5207963585853577
+		},
+		{
+			"capture_points": 0.12002915143966675,
+			"planes_killed": 3.0409610271453857,
+			"ship_id": 4288591856,
+			"damage_dealt": 27453.9140625,
+			"frags": 0.6994922757148743,
+			"dropped_capture_points": 0.6310089230537415,
+			"wins": 0.5044993162155151
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.368046283721924,
+			"ship_id": 3764303056,
+			"damage_dealt": 34017.640625,
+			"frags": 0.8064842820167542,
+			"dropped_capture_points": 0,
+			"wins": 0.5508829355239868
+		},
+		{
+			"capture_points": 0.19461463391780853,
+			"planes_killed": 0.3751278221607208,
+			"ship_id": 4288558800,
+			"damage_dealt": 20881.607421875,
+			"frags": 0.5650985240936279,
+			"dropped_capture_points": 0.2623017430305481,
+			"wins": 0.4894929528236389
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.058295488357544,
+			"ship_id": 3764303664,
+			"damage_dealt": 35877.5703125,
+			"frags": 0.7610429525375366,
+			"dropped_capture_points": 0,
+			"wins": 0.5485931038856506
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.31141138076782227,
+			"ship_id": 4185831376,
+			"damage_dealt": 19699.18359375,
+			"frags": 0.7039158940315247,
+			"dropped_capture_points": 0,
+			"wins": 0.5109599232673645
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.45440012216567993,
+			"ship_id": 3762173136,
+			"damage_dealt": 24807.259765625,
+			"frags": 0.6195281147956848,
+			"dropped_capture_points": 0,
+			"wins": 0.5161745548248291
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.6078781485557556,
+			"ship_id": 3764336336,
+			"damage_dealt": 46829.2109375,
+			"frags": 0.8042169213294983,
+			"dropped_capture_points": 0,
+			"wins": 0.5193842053413391
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.08555085211992264,
+			"ship_id": 4186846416,
+			"damage_dealt": 19569.560546875,
+			"frags": 0.8303698301315308,
+			"dropped_capture_points": 0,
+			"wins": 0.5221081972122192
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.426679253578186,
+			"ship_id": 4183766832,
+			"damage_dealt": 42564.28515625,
+			"frags": 0.7843157052993774,
+			"dropped_capture_points": 0,
+			"wins": 0.5014123916625977
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.8853938579559326,
+			"ship_id": 4184782288,
+			"damage_dealt": 25196.603515625,
+			"frags": 0.6158830523490906,
+			"dropped_capture_points": 0,
+			"wins": 0.5010035037994385
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.9492087364196777,
+			"ship_id": 3752802256,
+			"damage_dealt": 63631.49609375,
+			"frags": 1.0094035863876343,
+			"dropped_capture_points": 0,
+			"wins": 0.5583589673042297
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.00010532591113587841,
+			"ship_id": 4187928400,
+			"damage_dealt": 17271.072265625,
+			"frags": 0.724739670753479,
+			"dropped_capture_points": 0,
+			"wins": 0.5216633677482605
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.26047682762145996,
+			"ship_id": 4182652624,
+			"damage_dealt": 24879.96484375,
+			"frags": 0.6316949725151062,
+			"dropped_capture_points": 0,
+			"wins": 0.4906021058559418
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3483150005340576,
+			"ship_id": 4181604048,
+			"damage_dealt": 33102.734375,
+			"frags": 0.6984708309173584,
+			"dropped_capture_points": 0,
+			"wins": 0.522211492061615
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.28043341636657715,
+			"ship_id": 3764270288,
+			"damage_dealt": 26405.169921875,
+			"frags": 0.7974355816841125,
+			"dropped_capture_points": 0,
+			"wins": 0.5510888695716858
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 2.1654720306396484,
+			"ship_id": 4179572528,
+			"damage_dealt": 86013.8125,
+			"frags": 0.9532877802848816,
+			"dropped_capture_points": 0,
+			"wins": 0.5116679072380066
+		},
+		{
+			"capture_points": 0.26474225521087646,
+			"planes_killed": 0.011495367623865604,
+			"ship_id": 4266538992,
+			"damage_dealt": 13521.2001953125,
+			"frags": 0.6201941967010498,
+			"dropped_capture_points": 1.2280410528182983,
+			"wins": 0.48599129915237427
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2902363538742065,
+			"ship_id": 4181637072,
+			"damage_dealt": 40310.0390625,
+			"frags": 0.7059987783432007,
+			"dropped_capture_points": 0,
+			"wins": 0.5071169137954712
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.19259753823280334,
+			"ship_id": 4183700688,
+			"damage_dealt": 29813.53515625,
+			"frags": 0.8004412651062012,
+			"dropped_capture_points": 0,
+			"wins": 0.5350406169891357
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.6723846197128296,
+			"ship_id": 4180588368,
+			"damage_dealt": 60097.7265625,
+			"frags": 0.7156676650047302,
+			"dropped_capture_points": 0,
+			"wins": 0.5249112844467163
+		},
+		{
+			"capture_points": 0.001439182786270976,
+			"planes_killed": 0.5691489577293396,
+			"ship_id": 4183734064,
+			"damage_dealt": 24723.17578125,
+			"frags": 0.5975036025047302,
+			"dropped_capture_points": 0.0030885653104633093,
+			"wins": 0.4903517961502075
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.23687928915023804,
+			"ship_id": 4076746192,
+			"damage_dealt": 24698.255859375,
+			"frags": 0.5275810360908508,
+			"dropped_capture_points": 0,
+			"wins": 0.4875287711620331
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.1715942770242691,
+			"ship_id": 4181604144,
+			"damage_dealt": 30045.125,
+			"frags": 0.6681928038597107,
+			"dropped_capture_points": 0,
+			"wins": 0.5193668603897095
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.20596909523010254,
+			"ship_id": 4182652720,
+			"damage_dealt": 26905.03515625,
+			"frags": 0.7358980774879456,
+			"dropped_capture_points": 0,
+			"wins": 0.5227034687995911
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.2449331283569336,
+			"ship_id": 4185831248,
+			"damage_dealt": 27621.12109375,
+			"frags": 0.8282188773155212,
+			"dropped_capture_points": 0,
+			"wins": 0.5238373875617981
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.0000665810439386405,
+			"ship_id": 4187928016,
+			"damage_dealt": 14384.7861328125,
+			"frags": 0.699787974357605,
+			"dropped_capture_points": 0,
+			"wins": 0.5082642436027527
+		},
+		{
+			"capture_points": 0.013689537532627583,
+			"planes_killed": 19.76605796813965,
+			"ship_id": 4281317360,
+			"damage_dealt": 77446.1171875,
+			"frags": 1.0941572189331055,
+			"dropped_capture_points": 0.18479134142398834,
+			"wins": 0.4781697988510132
+		},
+		{
+			"capture_points": 0.021685579791665077,
+			"planes_killed": 1.8910638093948364,
+			"ship_id": 4292818736,
+			"damage_dealt": 52831.62109375,
+			"frags": 0.7529280185699463,
+			"dropped_capture_points": 0.09473617374897003,
+			"wins": 0.5065263509750366
+		},
+		{
+			"capture_points": 0.33122286200523376,
+			"planes_killed": 0.9370496869087219,
+			"ship_id": 4289640432,
+			"damage_dealt": 25285.75,
+			"frags": 0.7148172855377197,
+			"dropped_capture_points": 2.3955841064453125,
+			"wins": 0.4935609698295593
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2055816650390625,
+			"ship_id": 4185863984,
+			"damage_dealt": 37496.1171875,
+			"frags": 0.9549473524093628,
+			"dropped_capture_points": 0,
+			"wins": 0.5198487043380737
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.024951396510004997,
+			"ship_id": 3767416784,
+			"damage_dealt": 21517.69140625,
+			"frags": 0.8781744837760925,
+			"dropped_capture_points": 0,
+			"wins": 0.5328592658042908
+		},
+		{
+			"capture_points": 0.11586453765630722,
+			"planes_killed": 1.0152671337127686,
+			"ship_id": 4259264496,
+			"damage_dealt": 39312.8203125,
+			"frags": 0.7810731530189514,
+			"dropped_capture_points": 0.5378585457801819,
+			"wins": 0.5002128481864929
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.3888886570930481,
+			"ship_id": 4180555568,
+			"damage_dealt": 38905.890625,
+			"frags": 0.8106321096420288,
+			"dropped_capture_points": 0,
+			"wins": 0.5447323322296143
+		},
+		{
+			"capture_points": 0.23902346193790436,
+			"planes_killed": 0.6869612336158752,
+			"ship_id": 4288624624,
+			"damage_dealt": 29202.537109375,
+			"frags": 0.6359593868255615,
+			"dropped_capture_points": 1.1612783670425415,
+			"wins": 0.47940951585769653
+		},
+		{
+			"capture_points": 0.3415849506855011,
+			"planes_killed": 0.30906054377555847,
+			"ship_id": 4281251536,
+			"damage_dealt": 22699.291015625,
+			"frags": 0.7154499888420105,
+			"dropped_capture_points": 2.3882081508636475,
+			"wins": 0.5036708116531372
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.20101110637187958,
+			"ship_id": 3865982416,
+			"damage_dealt": 33620.49609375,
+			"frags": 0.5483846068382263,
+			"dropped_capture_points": 0,
+			"wins": 0.4834890067577362
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.00005387253622757271,
+			"ship_id": 3768465392,
+			"damage_dealt": 13302.4375,
+			"frags": 0.7953597903251648,
+			"dropped_capture_points": 0,
+			"wins": 0.5194784998893738
+		},
+		{
+			"capture_points": 0.45699092745780945,
+			"planes_killed": 0.01905945874750614,
+			"ship_id": 4269684432,
+			"damage_dealt": 15409.67578125,
+			"frags": 0.6671474575996399,
+			"dropped_capture_points": 1.2080355882644653,
+			"wins": 0.4959142506122589
+		},
+		{
+			"capture_points": 0.6204617619514465,
+			"planes_killed": 0.005194941069930792,
+			"ship_id": 4290689008,
+			"damage_dealt": 21181.5234375,
+			"frags": 0.7808122634887695,
+			"dropped_capture_points": 4.758046627044678,
+			"wins": 0.5151480436325073
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.2453224658966064,
+			"ship_id": 3554621136,
+			"damage_dealt": 36811.86328125,
+			"frags": 0.7311269044876099,
+			"dropped_capture_points": 0,
+			"wins": 0.5160492062568665
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.3388429880142212,
+			"ship_id": 4185864144,
+			"damage_dealt": 46152.3984375,
+			"frags": 1.1824597120285034,
+			"dropped_capture_points": 0,
+			"wins": 0.5380407571792603
+		},
+		{
+			"capture_points": 0.0010427833767607808,
+			"planes_killed": 0.7647453546524048,
+			"ship_id": 4179506640,
+			"damage_dealt": 62362.73046875,
+			"frags": 0.9506756067276001,
+			"dropped_capture_points": 0.0026289396919310093,
+			"wins": 0.5421066880226135
+		},
+		{
+			"capture_points": 0.014577766880393028,
+			"planes_killed": 1.7276861667633057,
+			"ship_id": 4259231440,
+			"damage_dealt": 77786.84375,
+			"frags": 0.8768144845962524,
+			"dropped_capture_points": 0.09619289636611938,
+			"wins": 0.5042209029197693
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.03687772899866104,
+			"ship_id": 4186912560,
+			"damage_dealt": 29687.7109375,
+			"frags": 0.9967050552368164,
+			"dropped_capture_points": 0,
+			"wins": 0.5246252417564392
+		},
+		{
+			"capture_points": 0.03759057819843292,
+			"planes_killed": 0.20493441820144653,
+			"ship_id": 4248745968,
+			"damage_dealt": 30327.716796875,
+			"frags": 0.8605943322181702,
+			"dropped_capture_points": 0.09350395202636719,
+			"wins": 0.542734682559967
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.9019763469696045,
+			"ship_id": 3554588464,
+			"damage_dealt": 32085.7734375,
+			"frags": 0.6643054485321045,
+			"dropped_capture_points": 0,
+			"wins": 0.5346692800521851
+		},
+		{
+			"capture_points": 0.0579615943133831,
+			"planes_killed": 0.0382513664662838,
+			"ship_id": 4293866960,
+			"damage_dealt": 45952.72265625,
+			"frags": 1.3110278844833374,
+			"dropped_capture_points": 0.12019733339548111,
+			"wins": 0.6038828492164612
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.1076210737228394,
+			"ship_id": 4184815568,
+			"damage_dealt": 41719.9375,
+			"frags": 0.8303163051605225,
+			"dropped_capture_points": 0,
+			"wins": 0.5116832256317139
+		},
+		{
+			"capture_points": 0.2570403814315796,
+			"planes_killed": 1.1429630517959595,
+			"ship_id": 4291737040,
+			"damage_dealt": 33473.99609375,
+			"frags": 0.9500236511230469,
+			"dropped_capture_points": 1.7553070783615112,
+			"wins": 0.5402160286903381
+		},
+		{
+			"capture_points": 0.4795253872871399,
+			"planes_killed": 0.00411046389490366,
+			"ship_id": 4293834736,
+			"damage_dealt": 9436.7158203125,
+			"frags": 0.6875195503234863,
+			"dropped_capture_points": 4.310886383056641,
+			"wins": 0.4919075071811676
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.003566137747839093,
+			"ship_id": 4267587280,
+			"damage_dealt": 34629.11328125,
+			"frags": 1.1576035022735596,
+			"dropped_capture_points": 0,
+			"wins": 0.5710033774375916
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0,
+			"ship_id": 4186879440,
+			"damage_dealt": 24524.171875,
+			"frags": 0.8863871097564697,
+			"dropped_capture_points": 0,
+			"wins": 0.5337080955505371
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 0.9181064963340759,
+			"ship_id": 3764303696,
+			"damage_dealt": 33657.94140625,
+			"frags": 0.6979222297668457,
+			"dropped_capture_points": 0,
+			"wins": 0.5248442888259888
+		},
+		{
+			"capture_points": 0,
+			"planes_killed": 1.083784580230713,
+			"ship_id": 4181636944,
+			"damage_dealt": 49566.53125,
+			"frags": 0.6908442974090576,
+			"dropped_capture_points": 0,
+			"wins": 0.5189071297645569
+		}
+	]
+}
